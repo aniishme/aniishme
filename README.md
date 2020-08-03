@@ -32,4 +32,4 @@ Check out my [portfolio](https://aniish.me).
 - Email : sharmaanish023@gmail.com
 - Instagram : [@aniish.me](https://instagram.com/aniish.me)
 - Twitter : [@aniish_dot_me](https://twitter.com/aniish_dot_me)
-- Portfolio : [rutikwankhade.dev](https://rutikwankhade.dev) 
+- Portfolio : [aniish.me](https://aniish.me) 
