@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-It's me Anish Sharma. I am a 👨‍💻 frontend developer, an avid learner who is passionate about web technologies and building cool projects.
+It's me Anish Sharma. I am a 👨‍💻 JavaScript developer, an avid learner who is passionate about web technologies and building cool projects.
 
 Check out my [portfolio](https://aniish.me).
 
