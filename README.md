@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 It's me Anish Sharma. I am a 👨‍💻 JavaScript developer, an avid learner who is passionate about web technologies and building cool projects.
 
-Check out my [portfolio](https://aniish.me).
+Check out my [portfolio](https://sharmaanish.com.np).
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
