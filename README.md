@@ -30,6 +30,7 @@ Check out my [portfolio](https://sharmaanish.com.np).
 
 ### 📫 How to reach me:
 - Email : sharmaanish023@gmail.com
+- LinkedIn : [Connect Me](https://www.linkedin.com/in/sharmaanish023)
 - Instagram : [@aniish.me](https://instagram.com/aniish.me)
 - Twitter : [@aniish_dot_me](https://twitter.com/aniish_dot_me)
 - Portfolio : [aniishme](https://sharmaanish.com.np) 
